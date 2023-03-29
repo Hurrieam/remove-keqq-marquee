@@ -1,0 +1,8 @@
+.idea
+.vscode
+.DS_Store
+!package.json
+!tsconfig.json
+node_modules
+yarn.lock
+*.js*
